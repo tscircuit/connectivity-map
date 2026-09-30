@@ -18,12 +18,10 @@
     "@types/bun": "latest",
     "bun-types": "latest",
     "tsup": "^8.5.0",
-    "typescript": "^5.0.0"
+    "typescript": "^5.0.0",
+    "@biomejs/biome": "^2.2.2"
   },
   "peerDependencies": {
     "typescript": "^5"
-  },
-  "dependencies": {
-    "@biomejs/biome": "^2.2.2"
   }
 }
