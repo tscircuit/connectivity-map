@@ -1,6 +1,6 @@
 {
   "name": "connectivity-map",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module for managing connectivity between nodes in a network",
   "type": "module",
   "main": "dist/index.js",
